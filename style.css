@@ -97,3 +97,9 @@ footer {
   margin-top: 40px;
   font-size: 14px;
 }
+img {
+    width: 200px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 10px;
+}
